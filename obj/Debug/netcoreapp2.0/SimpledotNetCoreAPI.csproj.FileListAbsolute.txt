@@ -1,0 +1,10 @@
+/Users/z002zng/workspace/SimpledotNetCoreAPI/bin/Debug/netcoreapp2.0/SimpledotNetCoreAPI.deps.json
+/Users/z002zng/workspace/SimpledotNetCoreAPI/bin/Debug/netcoreapp2.0/SimpledotNetCoreAPI.runtimeconfig.json
+/Users/z002zng/workspace/SimpledotNetCoreAPI/bin/Debug/netcoreapp2.0/SimpledotNetCoreAPI.runtimeconfig.dev.json
+/Users/z002zng/workspace/SimpledotNetCoreAPI/bin/Debug/netcoreapp2.0/SimpledotNetCoreAPI.dll
+/Users/z002zng/workspace/SimpledotNetCoreAPI/bin/Debug/netcoreapp2.0/SimpledotNetCoreAPI.pdb
+/Users/z002zng/workspace/SimpledotNetCoreAPI/obj/Debug/netcoreapp2.0/SimpledotNetCoreAPI.csproj.CoreCompileInputs.cache
+/Users/z002zng/workspace/SimpledotNetCoreAPI/obj/Debug/netcoreapp2.0/SimpledotNetCoreAPI.AssemblyInfoInputs.cache
+/Users/z002zng/workspace/SimpledotNetCoreAPI/obj/Debug/netcoreapp2.0/SimpledotNetCoreAPI.AssemblyInfo.cs
+/Users/z002zng/workspace/SimpledotNetCoreAPI/obj/Debug/netcoreapp2.0/SimpledotNetCoreAPI.dll
+/Users/z002zng/workspace/SimpledotNetCoreAPI/obj/Debug/netcoreapp2.0/SimpledotNetCoreAPI.pdb
